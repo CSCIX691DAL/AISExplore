@@ -84,3 +84,7 @@ by opening your command line and entering the following command at the root of t
 > pip3 install wheel
 
 > pip3 install -r requirements.txt 
+
+# Contributors
+
+Jordan Rose, Skyler Boutilier, David Xavier Rae, Sally Keating , Deep Gianchandani, Brandon Fowler, Tom Campbell, Yiran Deng, Amilcar Soares and Mohammad Etemad
