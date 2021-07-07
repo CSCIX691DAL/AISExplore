@@ -1,0 +1,12 @@
+wheel
+setuptools
+djongo
+django
+django-mongoengine
+sshtunnel
+psycopg2
+pandas
+requests
+leveldb
+libais
+shapely

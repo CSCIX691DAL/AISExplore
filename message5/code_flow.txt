@@ -1,0 +1,21 @@
+mmsi ->
+imo_number -> imo_num
+vessel_name
+destination
+call_sign-> callsign
+ship_type -> type_and_cargo
+position_fix_type -> fix_type
+dimension_to_bow -> dim_a
+dimension_to_stern -> dim_b
+dimension_to_port -> dim_c
+dimension_to_starboard -> dim_d
+draught
+repeat_indicator
+eta_version
+eta_month
+eta_day
+eta_hour
+eta_minute
+dte
+ais_version ->
+spare

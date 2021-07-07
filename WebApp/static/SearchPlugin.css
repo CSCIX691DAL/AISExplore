@@ -1,0 +1,30 @@
+
+.searchbar {
+    width: 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: white;
+    background-image: url('search-solid.svg');
+    background-position: 10px 10px;
+    background-size: 14px;
+    background-repeat: no-repeat;
+    padding: 6px 20px 6px 40px;
+    -webkit-transition: width 0.6s ease-in-out;
+    transition: width 0.6s ease-in-out;
+}
+
+.searchbar:focus {
+    width: 100%;
+}
+.background-white{
+    background-color: white;
+    border-radius: 3px;
+    border: 2px solid #ccc;
+    font-size:14px;
+    padding:8px;
+    max-height: 400px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
